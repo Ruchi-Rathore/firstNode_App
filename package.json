@@ -1,0 +1,16 @@
+{
+  "name": "firstnode_app",
+  "version": "1.1.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "'test app'"
+  },
+  "author": "ruchi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
